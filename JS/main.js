@@ -155,10 +155,5 @@ const _ = {
   }
 };
 
-const anArray = [1,2,3,4,5,6,7,8,9,10];
-
-console.log(_.chunk(anArray, 3));
-
-
 // Do not write or modify code below this line.
 module.exports = _;
